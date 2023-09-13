@@ -17,7 +17,7 @@ let player1score =0;
 let player2score =0;
 
 
-const setDefaultImage = () => {
+const setDefault = () => {
     dice1.classList.add("hidden");
     player01score.textContent = 0;
     player02score.textContent = 0;
@@ -86,5 +86,5 @@ const setDefaultImage = () => {
 
 
 
-  resetbtn.addEventListener("click", setDefaultImage);
+  resetbtn.addEventListener("click", setDefault);
   
