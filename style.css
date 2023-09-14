@@ -225,7 +225,7 @@ span {
     .h1Text{
         font-size: 20px;
     }
-  
+}
 /* ......................................... */
 /* @media screen and (max-width: 768px) {
     .cards-container {
@@ -374,4 +374,3 @@ span {
     position: relative;
     top: 50vh;
  }
-}
